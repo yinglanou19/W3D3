@@ -1,0 +1,23 @@
+
+
+
+html,body,aside,h1,h2,ul, section, p, ol, li {
+
+    margin: inherit;
+    border: inherit;
+    padding: inherit;
+    font : inherit;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+body {
+    line-height: 1.5;
+}
+
+
+img{
+    width: 100%;
+}
